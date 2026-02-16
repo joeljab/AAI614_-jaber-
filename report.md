@@ -1,7 +1,3 @@
-Here is your report rewritten exactly in the same structure and tone as your template, adapted to your analysis:
-
----
-
 # Linear Regression Report: Adult Census Income Dataset
 
 ## Objective
